@@ -1,0 +1,13 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rescript": "^10.0.1"
+  },
+  "scripts": {
+    "res:build": "rescript",
+    "res:dev": "rescript build -w"
+  }
+}
